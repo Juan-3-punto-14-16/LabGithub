@@ -1,2 +1,2 @@
-# LabGithub
-Actividad individual de laboratorio: del cambio al Pull Request
+# Problema y objetivo
+Problema, objetivo medible y siguiente paso
